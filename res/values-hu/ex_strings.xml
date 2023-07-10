@@ -30,7 +30,7 @@
     <string name="aex_about_info">Magunkról</string>
     <string name="aex_about_summary">Bemutatkozásunk és a csapatunk</string>
     <string name="aex_about_info_summary">Az AospExtended egy AOSP alapú ROM, ami gyári kinézetet kínál különféle testreszabási opciókkal és Substratum témamotorral. Más projektekből szemezgetve jött létre ez a projekt. Az AOSP-alapnak köszönhetően már a dobozból kivéve gördülékeny és akadásmentes élményt nyújt. Folyamatosan bővítjük és még jobbá tesszük majd a jövőbeli frissítésekben. #Légy nyitott a bővítésekre!</string>
-    <string name="dev_info">Az AospExtended-ről</string>
+    <string name="dev_info">Az RampageOS-ről</string>
     <string name="github">Github</string>
     <string name="github_description">Itt megnézheti a forráskódunkat</string>
     <string name="gplus">Google+</string>

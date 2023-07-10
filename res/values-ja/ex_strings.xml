@@ -30,7 +30,7 @@
     <string name="aex_about_info">私たちについて</string>
     <string name="aex_about_summary">私達とチームの紹介</string>
     <string name="aex_about_info_summary">AOSPExtendedは、Substratumテーマエンジンを始めとする様々なカスタマイズ機能を備えたAOSPベースのROMです。ストックROMのようなUIやUXを提供します。プロジェクトは、他のプロジェクトから選び抜かれた様々なコミットによって構成されています。AOSPに基づいているので滑らかで、ラグのない体験が可能です。私たちは常により多くの機能を追加し、将来の更新でより良いものにしていきます。#BeExtended</string>
-    <string name="dev_info">AOSP Extended について</string>
+    <string name="dev_info">RampageOS について</string>
     <string name="github">GitHub</string>
     <string name="github_description">ソースコードを表示</string>
     <string name="gplus">Google+</string>

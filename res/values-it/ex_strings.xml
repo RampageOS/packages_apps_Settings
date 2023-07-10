@@ -30,7 +30,7 @@
     <string name="aex_about_info">Chi siamo</string>
     <string name="aex_about_summary">La nostra introduzione e il nostro team</string>
     <string name="aex_about_info_summary">AospExtended è una rom basata su AOSP e fornisce una UI/UX stock con varie caratteristiche di personalizzazione come il theme engine Substratum. Il progetto è stato realizzato dalla scelta dei commit da altri progetti. Essendo basato su AOSP, fornisce un\'esperienza fluida e senza rallentamenti. Cerchiamo costantemente di aggiungere ulteriori funzionalità e renderla ancora migliore nei futuri aggiornamenti.#BeExtended</string>
-    <string name="dev_info">Informazionisu AospExtended</string>
+    <string name="dev_info">Informazionisu RampageOS</string>
     <string name="github">Github</string>
     <string name="github_description">Visualizza il nostro codice sorgente</string>
     <string name="gplus">Google+</string>

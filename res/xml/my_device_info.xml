@@ -27,15 +27,6 @@
         android:layout="@layout/settings_entity_header"
         android:selectable="false"
         settings:isPreferenceVisible="false"/-->
-
-    <!-- About us -->
-    <Preference
-        android:key="aex_about_info"
-        android:order="1"
-        android:title="@string/aex_about_info"
-	android:summary="@string/aex_about_summary"
-        android:fragment="com.android.settings.AboutUs" />
-
     <!-- Changelog -->
     <Preference
         android:key="changelog"

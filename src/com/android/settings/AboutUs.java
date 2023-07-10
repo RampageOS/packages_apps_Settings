@@ -32,8 +32,6 @@ public class AboutUs extends SettingsPreferenceFragment {
     public void onCreate(Bundle savedInstanceState) {
        super.onCreate(savedInstanceState);
 
-        addPreferencesFromResource(R.xml.about_us);
-
     }
 
     @Override
