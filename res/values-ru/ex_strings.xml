@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Найдите сканер отпечатков пальцев на лицевой стороне вашего планшета.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Найдите сканер отпечатков пальцев на левой стороне вашего планшета.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Найдите сканер отпечатков пальцев на правой стороне вашего устройства.</string>
-    <string name="extended_version">Расширенная версия</string>
+    <string name="extended_version">RampageOS версия</string>
     <string name="extended_version_default">Неизвестно</string>
-    <string name="keywords_extended_version">aex версия, extended версия</string>
+    <string name="keywords_extended_version">RampageOS версия, RampageOS версия</string>
     <string name="build_date">Дата сборки</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="keywords_build_date">дата сборки, информация о сборке</string>

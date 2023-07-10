@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Az ujjlenyomat-olvasót a táblagép előlapján találhatja meg.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Az ujjlenyomat-olvasót a táblagép bal oldalán találhatja meg.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Az ujjlenyomat-olvasót a táblagép jobb oldalán találhatja meg.</string>
-    <string name="extended_version">Bővített változat</string>
+    <string name="extended_version">Bővített RampageOS</string>
     <string name="extended_version_default">Ismeretlen</string>
-    <string name="keywords_extended_version">AEX-verzió, bővített változat</string>
+    <string name="keywords_extended_version">RampageOS-verzió, bővített RampageOS</string>
     <string name="build_date">A kiadás dátuma</string>
     <string name="build_date_default">2009-06-02-1234</string>
     <string name="keywords_build_date">kiadás dátuma, kiadási információk</string>

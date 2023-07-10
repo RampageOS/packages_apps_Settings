@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Vyhledejte snímač otisků prstů na přední straně tabletu.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Vyhledejte snímač otisků prstů na levé straně tabletu.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Vyhledejte snímač otisků prstů na pravé straně tabletu.</string>
-    <string name="extended_version">Verze AOSP Extended</string>
+    <string name="extended_version">Verze RampageOS</string>
     <string name="extended_version_default">Neznámá</string>
-    <string name="keywords_extended_version">verze aex, verze extended</string>
+    <string name="keywords_extended_version">verze RampageOS, verze RampageOS</string>
     <string name="build_date">Datum sestavení</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="keywords_build_date">datum sestavení, info o sestavení</string>

@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Localize o sensor de impressão digital na parte frontal do seu tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Localize o sensor de impressão digital no lado esquerdo do seu tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Localize o sensor biométrico no lado direito do seu tablet.</string>
-    <string name="extended_version">Versão da Extended</string>
+    <string name="extended_version">Versão da RampageOS</string>
     <string name="extended_version_default">Desconhecido</string>
-    <string name="keywords_extended_version">versão aex, versão extended</string>
+    <string name="keywords_extended_version">versão RampageOS, versão RampageOS</string>
     <string name="build_date">Data da compilação</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="keywords_build_date">data de compilação, informações de compilação</string>

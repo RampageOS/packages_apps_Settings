@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">您可以在平板正面找到指纹传感器。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">您可以在平板左侧找到指纹传感器。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">您可以在平板右侧找到指纹传感器。</string>
-    <string name="extended_version">AEX 版本</string>
+    <string name="extended_version">RampageOS 版本</string>
     <string name="extended_version_default">未知</string>
-    <string name="keywords_extended_version">AEX 版本、 系统版本</string>
+    <string name="keywords_extended_version">RampageOS 版本、 RampageOS 版本</string>
     <string name="build_date">构建日期</string>
     <string name="build_date_default">2005-01-01-0000</string>
     <string name="keywords_build_date">编译日期、编译信息</string>

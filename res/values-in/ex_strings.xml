@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Temukan lokasi sensor sidik jari di bagian depan tablet Anda.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Temukan lokasi sensor sidik jari di sisi kiri tablet Anda.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Temukan lokasi sensor sidik jari di bagian sisi kanan tablet Anda.</string>
-    <string name="extended_version">Versi Extended</string>
+    <string name="extended_version">Versi RampageOS</string>
     <string name="extended_version_default">Tidak diketahui</string>
-    <string name="keywords_extended_version">Versi aex, versi extended</string>
+    <string name="keywords_extended_version">Versi RampageOS, versi RampageOS</string>
     <string name="build_date">Tanggal Pembuatan</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="keywords_build_date">tanggal pembuatan, info pembuatan</string>

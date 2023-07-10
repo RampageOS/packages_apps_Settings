@@ -12,9 +12,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="extended_version">Förlängd version</string>
+    <string name="extended_version">RampageOS version</string>
     <string name="extended_version_default">Okänd</string>
-    <string name="keywords_extended_version">aex-version, förlängd version</string>
+    <string name="keywords_extended_version">RampageOS-version, RampageOS version</string>
     <string name="build_date">Byggnationsdatum</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="aex_about_info">Om oss</string>

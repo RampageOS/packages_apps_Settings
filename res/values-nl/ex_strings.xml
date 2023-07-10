@@ -21,9 +21,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Gebruik de vingerafdrukscanner op de voorkant van uw tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Zoek de vingerafdruksensor op de linker zijde van uw tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Zoek de vingerafdruksensor op de rechter zijde van uw tablet.</string>
-    <string name="extended_version">Uitgebreide versie</string>
+    <string name="extended_version">RampageOS versie</string>
     <string name="extended_version_default">Onbekend</string>
-    <string name="keywords_extended_version">aex versie, uitgebreide versie</string>
+    <string name="keywords_extended_version">RampageOS versie, RampageOS versie</string>
     <string name="build_date">Bouwdatum</string>
     <string name="build_date_default">2015-01-01-0000</string>
     <string name="keywords_build_date">bouwdatum, bouw-informatie</string>
