@@ -6800,7 +6800,7 @@
     <!-- Button label to disconnect from a VPN profile. [CHAR LIMIT=40] -->
     <string name="vpn_disconnect">Disconnect</string>
     <!-- Field label to show the version number for a VPN app. [CHAR LIMIT=40] -->
-    <string name="vpn_version">Version <xliff:g id="version" example="3.3.0">%s</xliff:g></string>
+    <string name="vpn_version">Version</string>
     <!-- Button label to forget a VPN profile [CHAR LIMIT=40] -->
     <string name="vpn_forget_long">Forget VPN</string>
     <!-- Dialog message title to set another VPN app to be always-on [CHAR LIMIT=40] -->
@@ -10217,6 +10217,7 @@
     <string name="default_admin_support_msg">If you have questions, contact your IT admin</string>
     <!-- Shown in dialog to allow user to see more information about the device admin [CHAR LIMIT=30] -->
     <string name="admin_support_more_info">More details</string>
+    <string name="more_info">More details</string>
     <!-- Shown in admin details page to warn user about policies the admin can set in a work profile. [CHAR LIMIT=NONE] -->
     <string name="admin_profile_owner_message">Your admin can monitor and manage apps and data
         associated with your work profile, including settings, permissions, corporate access,
@@ -12229,6 +12230,4 @@
     <string name="bluetooth_connect_access_dialog_negative">Don\u2019t connect</string>
     <!-- Strings for Dialog connect button -->
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
-
-    <string name="more_info">More info</string>
 </resources>
